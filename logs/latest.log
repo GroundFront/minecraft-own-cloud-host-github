@@ -1,72 +1,22 @@
-[16:34:38] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/redis/clients/jedis/5.1.2/jedis-5.1.2.pom
-[16:34:38] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
-[16:34:39] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.pom
-[16:34:39] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.36/slf4j-parent-1.7.36.pom
-[16:34:39] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.12.0/commons-pool2-2.12.0.pom
-[16:34:39] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/62/commons-parent-62.pom
-[16:34:39] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/apache/apache/30/apache-30.pom
-[16:34:39] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.10.0/junit-bom-5.10.0.pom
-[16:34:40] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/json/json/20231013/json-20231013.pom
-[16:34:40] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
-[16:34:40] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.pom
-[16:34:40] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.10.1/gson-parent-2.10.1.pom
-[16:34:40] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0.pom
-[16:34:40] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.25.1/protobuf-java-3.25.1.pom
-[16:34:41] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.25.1/protobuf-parent-3.25.1.pom
-[16:34:41] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.25.1/protobuf-bom-3.25.1.pom
-[16:34:41] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.3.3/mariadb-java-client-3.3.3.pom
-[16:34:41] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.0/junit-bom-5.7.0.pom
-[16:34:41] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/bom/2.21.1/bom-2.21.1.pom
-[16:34:41] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.21.1/aws-sdk-java-pom-2.21.1.pom
-[16:34:42] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/github/waffle/waffle-jna/3.3.0/waffle-jna-3.3.0.pom
-[16:34:42] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/github/waffle/waffle-parent/3.3.0/waffle-parent-3.3.0.pom
-[16:34:42] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.pom
-[16:34:42] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.pom
-[16:34:42] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/2.0.7/jcl-over-slf4j-2.0.7.pom
-[16:34:43] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.7/slf4j-parent-2.0.7.pom
-[16:34:43] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.pom
-[16:34:43] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.pom
-[16:34:43] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.19.0/checker-qual-3.19.0.pom
-[16:34:43] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.pom
-[16:34:43] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.10.0/error_prone_parent-2.10.0.pom
-[16:34:44] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.32.0/checker-qual-3.32.0.pom
-[16:34:44] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.45.2.0/sqlite-jdbc-3.45.2.0.pom
-[16:34:44] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.220/h2-2.2.220.pom
-[16:34:44] [ServerMain/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/redis/clients/jedis/5.1.2/jedis-5.1.2.jar
-[16:34:44] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
-[16:34:44] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/json/json/20231013/json-20231013.jar
-[16:34:44] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.12.0/commons-pool2-2.12.0.jar
-[16:34:44] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0.jar
-[16:34:44] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.25.1/protobuf-java-3.25.1.jar
-[16:34:44] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.3.3/mariadb-java-client-3.3.3.jar
-[16:34:44] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/github/waffle/waffle-jna/3.3.0/waffle-jna-3.3.0.jar
-[16:34:45] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/2.0.7/jcl-over-slf4j-2.0.7.jar
-[16:34:45] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.jar
-[16:34:45] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.jar
-[16:34:45] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.32.0/checker-qual-3.32.0.jar
-[16:34:45] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.45.2.0/sqlite-jdbc-3.45.2.0.jar
-[16:34:45] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [MavenLibraryResolver] Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/2.2.220/h2-2.2.220.jar
-[16:34:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:34:49] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[16:34:50] [ServerMain/INFO]: No existing world data, creating new world
-[16:34:50] [ServerMain/INFO]: Loaded 1174 recipes
-[16:34:51] [ServerMain/INFO]: Loaded 1271 advancements
-[16:34:51] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[16:34:51] [Server thread/INFO]: Loading properties
-[16:34:51] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
-[16:34:52] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:34:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:34:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[16:34:52] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[03:32:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:33:02] [ServerMain/INFO]: Loaded 1174 recipes
+[03:33:02] [ServerMain/INFO]: Loaded 1271 advancements
+[03:33:02] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[03:33:02] [Server thread/INFO]: Loading properties
+[03:33:03] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
+[03:33:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:33:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:33:04] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[16:34:52] [Server thread/INFO]: Default game type: SURVIVAL
-[16:34:52] [Server thread/INFO]: Generating keypair
-[16:34:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:34:52] [Server thread/INFO]: Using epoll channel type
-[16:34:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[16:34:52] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[16:34:52] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/RealEstate-1.2.jar' in 'plugins'
+[03:33:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[03:33:05] [Server thread/INFO]: Default game type: SURVIVAL
+[03:33:05] [Server thread/INFO]: Generating keypair
+[03:33:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:33:05] [Server thread/INFO]: Using epoll channel type
+[03:33:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:33:05] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:33:05] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/RealEstate-1.2.jar' in 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [Vault, GriefPrevention]. Please download and install these plugins to run 'RealEstate'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.4.jar:git-Paper-496]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.20.4.jar:git-Paper-496]
@@ -76,7 +26,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1131) ~[paper-1.20.4.jar:git-Paper-496]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-496]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[16:34:52] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/AuthMeVelocity-Paper-4.1.1.jar' in 'plugins'
+[03:33:05] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/AuthMeVelocity-Paper-4.1.1.jar' in 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [AuthMe]. Please download and install these plugins to run 'AuthMeVelocity'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.4.jar:git-Paper-496]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.20.4.jar:git-Paper-496]
@@ -86,7 +36,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1131) ~[paper-1.20.4.jar:git-Paper-496]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-496]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[16:34:52] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/multiverse-netherportals-4.2.3.jar' in 'plugins'
+[03:33:05] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/multiverse-netherportals-4.2.3.jar' in 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [Multiverse-Core]. Please download and install these plugins to run 'Multiverse-NetherPortals'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.4.jar:git-Paper-496]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.20.4.jar:git-Paper-496]
@@ -96,19 +46,19 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1131) ~[paper-1.20.4.jar:git-Paper-496]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-496]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[16:34:53] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.10.2
-[16:34:53] [Server thread/INFO]: [ViaVersion] ViaVersion 4.10.2 is now loaded. Registering protocol transformers and injecting...
-[16:34:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[16:34:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[16:34:55] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[16:34:55] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[16:34:55] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.128
-[16:34:57] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.3.1-SNAPSHOT
-[16:34:58] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[16:34:58] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[16:34:58] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.1.0
-[16:34:58] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.20.4) has not yet been tested! Proceed with caution.
-[16:34:59] [Server thread/ERROR]:   [ProtocolLib] INTERNAL ERROR: Cannot load ProtocolLib.
+[03:33:06] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.10.2
+[03:33:06] [Server thread/INFO]: [ViaVersion] ViaVersion 4.10.2 is now loaded. Registering protocol transformers and injecting...
+[03:33:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[03:33:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[03:33:07] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[03:33:07] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[03:33:08] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.128
+[03:33:08] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.3.1-SNAPSHOT
+[03:33:09] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[03:33:09] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[03:33:09] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.1.0
+[03:33:09] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.20.4) has not yet been tested! Proceed with caution.
+[03:33:10] [Server thread/ERROR]:   [ProtocolLib] INTERNAL ERROR: Cannot load ProtocolLib.
   If this problem hasn't already been reported, please open a ticket
   at https://github.com/dmulloy2/ProtocolLib/issues with the following data:
   Stack Trace:
@@ -133,32 +83,32 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
   Parameters: 
     [NULL]
   Sender:
-    com.comphenix.protocol.ProtocolLib@63a64a43[
+    com.comphenix.protocol.ProtocolLib@30a03bcb[
       statistics=<null>
       packetTask=<null>
       tickCounter=0
       configExpectedMod=-1
-      updater=com.comphenix.protocol.updater.SpigotUpdater@170404d3
+      updater=com.comphenix.protocol.updater.SpigotUpdater@2438ab74
       redirectHandler=<null>
-      scheduler=com.comphenix.protocol.scheduler.DefaultScheduler@4621a022
+      scheduler=com.comphenix.protocol.scheduler.DefaultScheduler@15f7a25b
       commandProtocol=<null>
       commandPacket=<null>
       commandFilter=<null>
       packetLogging=<null>
       skipDisable=false
       isEnabled=false
-      loader=io.papermc.paper.plugin.manager.DummyBukkitPluginLoader@249f1bea
+      loader=io.papermc.paper.plugin.manager.DummyBukkitPluginLoader@2d4e30c3
       server=CraftServer{serverName=Paper,serverVersion=git-Paper-496,minecraftVersion=1.20.4}
       file=plugins/ProtocolLib.jar
-      description=org.bukkit.plugin.PluginDescriptionFile@3e7588eb
-      pluginMeta=org.bukkit.plugin.PluginDescriptionFile@3e7588eb
+      description=org.bukkit.plugin.PluginDescriptionFile@5f60faed
+      pluginMeta=org.bukkit.plugin.PluginDescriptionFile@5f60faed
       dataFolder=plugins/ProtocolLib
       classLoader=PluginClassLoader{plugin=ProtocolLib v5.1.0, pluginEnabled=false, url=plugins/ProtocolLib.jar}
       naggable=true
       newConfig=YamlConfiguration[path='', root='YamlConfiguration']
       configFile=plugins/ProtocolLib/config.yml
-      logger=com.destroystokyo.paper.utils.PaperPluginLogger@55b8e695
-      lifecycleEventManager=io.papermc.paper.plugin.lifecycle.event.PaperLifecycleEventManager@2b27960a
+      logger=com.destroystokyo.paper.utils.PaperPluginLogger@5e1b8ff5
+      lifecycleEventManager=io.papermc.paper.plugin.lifecycle.event.PaperLifecycleEventManager@1e519db
       allowsLifecycleRegistration=true
     ]
   Version:
@@ -168,232 +118,232 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
   Server:
     git-Paper-496 (MC: 1.20.4)
 
-[16:34:59] [Server thread/INFO]: [InvSee++] Loading server plugin InvSeePlusPlus v0.27.0
-[16:34:59] [Server thread/INFO]: [LightAntiCheat] Loading server plugin LightAntiCheat v1.2.1
-[16:34:59] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.10.2
-[16:34:59] [Server thread/INFO]: [RandomChallenge] Loading server plugin RandomChallenge v1.33
-[16:34:59] [Server thread/INFO]: [HuskHomes] Loading server plugin HuskHomes v4.6.2
-[16:34:59] [Server thread/INFO]: [Orebfuscator] Loading server plugin Orebfuscator v5.4.4
-[16:34:59] [Server thread/INFO]: [InvSee++_Give] Loading server plugin InvSeePlusPlus_Give v0.27.0
-[16:34:59] [Server thread/INFO]: [VillagerOptimizer] Loading server plugin VillagerOptimizer v1.5.5
-[16:34:59] [Server thread/INFO]: [PowerRanks] Loading server plugin PowerRanks v1.10.9R2
-[16:34:59] [Server thread/INFO]: [InvSee++_Clear] Loading server plugin InvSeePlusPlus_Clear v0.27.0
-[16:34:59] [Server thread/INFO]: [Stress] Loading server plugin Stress v1.0.3
-[16:34:59] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.10
-[16:34:59] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[16:34:59] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.2+6779-3aca580
-[16:35:00] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6974926b]
-[16:35:00] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
-[16:35:00] [Server thread/INFO]: [PaperTweaks] Loading server plugin PaperTweaks v0.4.1
-[16:35:00] [Server thread/INFO]: [WildRTP] Loading server plugin WildRTP v2.2
-[16:35:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:35:00] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.128
-[16:35:00] [Server thread/INFO]:         __    
-[16:35:00] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.128
-[16:35:00] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[16:35:00] [Server thread/INFO]: 
-[16:35:00] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[16:35:01] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[16:35:01] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[16:35:02] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[16:35:02] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1913ms)
-[16:35:02] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
-[16:35:02] [Server thread/ERROR]: ******************************************************
-[16:35:02] [Server thread/ERROR]: *** ProtocolLib does not support plugin reloaders! ***
-[16:35:02] [Server thread/ERROR]: *** Please use the built-in reload command!        ***
-[16:35:02] [Server thread/ERROR]: ******************************************************
-[16:35:02] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.1.0
-[16:35:02] [Server thread/INFO]: [PowerRanks] Enabling PowerRanks v1.10.9R2
-[16:35:02] [Server thread/INFO]: [PowerRanks] 
-[16:35:02] [Server thread/INFO]: [PowerRanks] === ------- LOADING CONFIGURATION ------ ===
-[16:35:02] [Server thread/INFO]: [PowerRanks] Loading config file
-[16:35:02] [Server thread/INFO]: [PowerRanks] Loading language file
-[16:35:02] [Server thread/INFO]: [PowerRanks] Loading usertags file
-[16:35:02] [Server thread/INFO]: [PowerRanks] Loading tablist file
-[16:35:02] [Server thread/INFO]: [PowerRanks] 
-[16:35:02] [Server thread/INFO]: [PowerRanks] === ---------- LOADING ADDONS ---------- ===
-[16:35:02] [Server thread/INFO]: [PowerRanks] Loaded 0 add-on(s)!
-[16:35:02] [Server thread/INFO]: [PowerRanks] 
-[16:35:02] [Server thread/INFO]: [PowerRanks] === ----------- LOADING DATA ----------- ===
-[16:35:02] [Server thread/INFO]: [PowerRanks] Loading player & rank data
-[16:35:03] [Server thread/INFO]: [PowerRanks] 
-[16:35:03] [Server thread/INFO]: [PowerRanks] === ------- LOADING PLUGIN HOOKS ------- ===
-[16:35:03] [Server thread/INFO]: [PowerRanks] Checking for plugins to hook in to:
-[16:35:03] [Server thread/INFO]: [PowerRanks] No other plugins found! Working stand-alone.
-[16:35:03] [Server thread/INFO]: [PowerRanks] 
-[16:35:03] [Server thread/INFO]: [PowerRanks] §b  ██████  ██████ §a  PowerRanks v1.10.9R2
-[16:35:03] [Server thread/INFO]: [PowerRanks] §b  ██   ██ ██   ██§a  Running on Paper v496
-[16:35:03] [Server thread/INFO]: [PowerRanks] §b  ██████  ██████ §a  Startup time: 767ms
-[16:35:03] [Server thread/INFO]: [PowerRanks] §b  ██      ██   ██§a  Loaded 4 ranks and 0 players (YAML) 
-[16:35:03] [Server thread/INFO]: [PowerRanks] §b  ██      ██   ██§c  
-[16:35:03] [Server thread/INFO]: [PowerRanks] 
-[16:35:03] [Server thread/INFO]: [PowerRanks] If you'd like to donate, please visit https://ko-fi.com/svenar
-[16:35:03] [Server thread/INFO]: [PowerRanks] Checking for updates...
-[16:35:03] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.2+6779-3aca580
-[16:35:04] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[16:35:04] [Server thread/INFO]: WEPIF: Updated config file
-[16:35:04] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[16:35:04] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
-[16:35:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:35:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:35:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:35:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:35:05] [Server thread/INFO]: Preparing level "world"
-[16:35:05] [Server thread/INFO]: -------- World Settings For [world] --------
-[16:35:05] [Server thread/INFO]: View Distance: 10
-[16:35:05] [Server thread/INFO]: Simulation Distance: 10
-[16:35:05] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:35:05] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:35:05] [Server thread/INFO]: Mob Spawn Range: 6
-[16:35:05] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:35:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[16:35:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:35:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:35:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:35:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Potato Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
-[16:35:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[16:35:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[16:35:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[16:35:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[16:35:05] [Server thread/INFO]: Max TNT Explosions: 100
-[16:35:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:35:13] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[16:35:13] [Server thread/INFO]: View Distance: 10
-[16:35:13] [Server thread/INFO]: Simulation Distance: 10
-[16:35:13] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:35:13] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:35:13] [Server thread/INFO]: Mob Spawn Range: 6
-[16:35:13] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:35:13] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[16:35:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:35:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:35:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:35:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Potato Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
-[16:35:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[16:35:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[16:35:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[16:35:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[16:35:13] [Server thread/INFO]: Max TNT Explosions: 100
-[16:35:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:35:15] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[16:35:15] [Server thread/INFO]: View Distance: 10
-[16:35:15] [Server thread/INFO]: Simulation Distance: 10
-[16:35:15] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:35:15] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:35:15] [Server thread/INFO]: Mob Spawn Range: 6
-[16:35:15] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:35:15] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[16:35:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:35:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:35:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:35:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Potato Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
-[16:35:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[16:35:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[16:35:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[16:35:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[16:35:15] [Server thread/INFO]: Max TNT Explosions: 100
-[16:35:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:35:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:35:16] [Server thread/INFO]: Time elapsed: 240 ms
-[16:35:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:35:16] [Server thread/INFO]: Time elapsed: 125 ms
-[16:35:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:35:16] [Server thread/INFO]: Time elapsed: 116 ms
-[16:35:16] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.10.2
-[16:35:16] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
-[16:35:16] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.3.1-SNAPSHOT
-[16:35:16] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.27.0
-[16:35:16] [Server thread/INFO]: [LightAntiCheat] Enabling LightAntiCheat v1.2.1
-[16:35:17] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.10.2
-[16:35:17] [Server thread/INFO]: [RandomChallenge] Enabling RandomChallenge v1.33
-[16:35:17] [Server thread/INFO]: [HuskHomes] Enabling HuskHomes v4.6.2
-[16:35:17] [Server thread/INFO]: [HuskHomes] Initializing plugin config & locale files...
-[16:35:18] [Server thread/INFO]: [HuskHomes] Successfully initialized plugin config & locale files
-[16:35:18] [Server thread/INFO]: [HuskHomes] Initializing SQLite database connection...
-[16:35:18] [Server thread/INFO]: [HuskHomes] Created the SQLite database file
-[16:35:18] [Server thread/INFO]: [HuskHomes] Successfully initialized SQLite database connection
-[16:35:18] [Server thread/INFO]: [HuskHomes] Initializing hooks...
-[16:35:18] [Server thread/INFO]: [HuskHomes] Successfully initialized hooks
-[16:35:18] [Server thread/INFO]: [HuskHomes] Initializing events...
-[16:35:18] [Server thread/INFO]: [HuskHomes] Successfully initialized events
-[16:35:18] [Server thread/INFO]: [HuskHomes] Initializing commands...
-[16:35:18] [Server thread/INFO]: [HuskHomes] Successfully initialized commands
-[16:35:18] [Server thread/INFO]: [HuskHomes] Initializing API...
-[16:35:18] [Server thread/INFO]: [HuskHomes] Successfully initialized API
-[16:35:18] [Server thread/INFO]: [HuskHomes] Initializing metrics...
-[16:35:18] [Server thread/INFO]: [HuskHomes] Successfully initialized metrics
-[16:35:18] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.4.4
-[16:35:18] [Server thread/ERROR]: [Orebfuscator] ╔========================================================================╗
-[16:35:18] [Server thread/ERROR]: [Orebfuscator] ║                                 WARNING                                ║
-[16:35:18] [Server thread/ERROR]: [Orebfuscator] ║             REMOVAL OF SUPPORT FOR JAVA VERSIONS BEFORE 17             ║
-[16:35:18] [Server thread/ERROR]: [Orebfuscator] ║                   AND MINECRAFT VERSIONS BEFORE 1.16                   ║
-[16:35:18] [Server thread/ERROR]: [Orebfuscator] ║                                                                        ║
-[16:35:18] [Server thread/ERROR]: [Orebfuscator] ║   https://github.com/Imprex-Development/orebfuscator/discussions/367   ║
-[16:35:18] [Server thread/ERROR]: [Orebfuscator] ╚========================================================================╝
-[16:35:18] [Server thread/ERROR]: [Orebfuscator] An error occurred while enabling plugin
+[03:33:10] [Server thread/INFO]: [InvSee++] Loading server plugin InvSeePlusPlus v0.27.0
+[03:33:10] [Server thread/INFO]: [LightAntiCheat] Loading server plugin LightAntiCheat v1.2.1
+[03:33:10] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.10.2
+[03:33:10] [Server thread/INFO]: [RandomChallenge] Loading server plugin RandomChallenge v1.33
+[03:33:10] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[03:33:10] [Server thread/INFO]: [HuskHomes] Loading server plugin HuskHomes v4.6.2
+[03:33:10] [Server thread/INFO]: [Orebfuscator] Loading server plugin Orebfuscator v5.4.4
+[03:33:10] [Server thread/INFO]: [InvSee++_Give] Loading server plugin InvSeePlusPlus_Give v0.27.0
+[03:33:10] [Server thread/INFO]: [VillagerOptimizer] Loading server plugin VillagerOptimizer v1.5.5
+[03:33:10] [Server thread/INFO]: [PowerRanks] Loading server plugin PowerRanks v1.10.9R2
+[03:33:10] [Server thread/INFO]: [InvSee++_Clear] Loading server plugin InvSeePlusPlus_Clear v0.27.0
+[03:33:10] [Server thread/INFO]: [Stress] Loading server plugin Stress v1.0.3
+[03:33:10] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.10
+[03:33:10] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[03:33:10] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.2+6779-3aca580
+[03:33:10] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3d8a219d]
+[03:33:10] [Server thread/INFO]: [PaperTweaks] Loading server plugin PaperTweaks v0.4.1
+[03:33:10] [Server thread/INFO]: [WildRTP] Loading server plugin WildRTP v2.2
+[03:33:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:33:10] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.128
+[03:33:11] [Server thread/INFO]:         __    
+[03:33:11] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.128
+[03:33:11] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[03:33:11] [Server thread/INFO]: 
+[03:33:11] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[03:33:11] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[03:33:11] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[03:33:12] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[03:33:12] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1518ms)
+[03:33:12] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[03:33:12] [Server thread/ERROR]: ******************************************************
+[03:33:12] [Server thread/ERROR]: *** ProtocolLib does not support plugin reloaders! ***
+[03:33:12] [Server thread/ERROR]: *** Please use the built-in reload command!        ***
+[03:33:12] [Server thread/ERROR]: ******************************************************
+[03:33:12] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.1.0
+[03:33:12] [Server thread/INFO]: [PowerRanks] Enabling PowerRanks v1.10.9R2
+[03:33:12] [Server thread/INFO]: [PowerRanks] Setting up file: config.yml
+[03:33:12] [Server thread/INFO]: [PowerRanks] 
+[03:33:12] [Server thread/INFO]: [PowerRanks] === ------- LOADING CONFIGURATION ------ ===
+[03:33:12] [Server thread/INFO]: [PowerRanks] Loading config file
+[03:33:12] [Server thread/INFO]: [PowerRanks] Loading language file
+[03:33:12] [Server thread/INFO]: [PowerRanks] Loading usertags file
+[03:33:12] [Server thread/INFO]: [PowerRanks] Loading tablist file
+[03:33:12] [Server thread/INFO]: [PowerRanks] 
+[03:33:12] [Server thread/INFO]: [PowerRanks] === ---------- LOADING ADDONS ---------- ===
+[03:33:12] [Server thread/INFO]: [PowerRanks] Loaded 0 add-on(s)!
+[03:33:12] [Server thread/INFO]: [PowerRanks] 
+[03:33:12] [Server thread/INFO]: [PowerRanks] === ----------- LOADING DATA ----------- ===
+[03:33:12] [Server thread/INFO]: [PowerRanks] Loading player & rank data
+[03:33:13] [Server thread/INFO]: [PowerRanks] 
+[03:33:13] [Server thread/INFO]: [PowerRanks] === ------- LOADING PLUGIN HOOKS ------- ===
+[03:33:13] [Server thread/INFO]: [PowerRanks] Checking for plugins to hook in to:
+[03:33:13] [Server thread/INFO]: [PowerRanks] No other plugins found! Working stand-alone.
+[03:33:13] [Server thread/INFO]: [PowerRanks] 
+[03:33:13] [Server thread/INFO]: [PowerRanks] §b  ██████  ██████ §a  PowerRanks v1.10.9R2
+[03:33:13] [Server thread/INFO]: [PowerRanks] §b  ██   ██ ██   ██§a  Running on Paper v496
+[03:33:13] [Server thread/INFO]: [PowerRanks] §b  ██████  ██████ §a  Startup time: 774ms
+[03:33:13] [Server thread/INFO]: [PowerRanks] §b  ██      ██   ██§a  Loaded 4 ranks and 1 players (YAML) 
+[03:33:13] [Server thread/INFO]: [PowerRanks] §b  ██      ██   ██§c  
+[03:33:13] [Server thread/INFO]: [PowerRanks] 
+[03:33:13] [Server thread/INFO]: [PowerRanks] If you'd like to donate, please visit https://ko-fi.com/svenar
+[03:33:13] [Server thread/INFO]: [PowerRanks] Checking for updates...
+[03:33:13] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.2+6779-3aca580
+[03:33:14] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[03:33:14] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[03:33:14] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[03:33:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:33:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:33:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:33:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:33:16] [Server thread/INFO]: Preparing level "world"
+[03:33:16] [Server thread/INFO]: -------- World Settings For [world] --------
+[03:33:16] [Server thread/INFO]: View Distance: 10
+[03:33:16] [Server thread/INFO]: Simulation Distance: 10
+[03:33:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:33:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:33:16] [Server thread/INFO]: Mob Spawn Range: 6
+[03:33:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:33:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:33:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:33:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[03:33:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[03:33:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[03:33:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[03:33:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:33:16] [Server thread/INFO]: Max TNT Explosions: 100
+[03:33:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:33:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:33:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:33:17] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[03:33:17] [Server thread/INFO]: View Distance: 10
+[03:33:17] [Server thread/INFO]: Simulation Distance: 10
+[03:33:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:33:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:33:17] [Server thread/INFO]: Mob Spawn Range: 6
+[03:33:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:33:17] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:33:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:33:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[03:33:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[03:33:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[03:33:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:33:17] [Server thread/INFO]: Max TNT Explosions: 100
+[03:33:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:33:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:33:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:33:17] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[03:33:17] [Server thread/INFO]: View Distance: 10
+[03:33:17] [Server thread/INFO]: Simulation Distance: 10
+[03:33:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:33:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:33:17] [Server thread/INFO]: Mob Spawn Range: 6
+[03:33:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:33:17] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:33:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:33:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: TorchFlower Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: GlowBerry Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: PitcherPlant Growth Modifier: 100%
+[03:33:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[03:33:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[03:33:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[03:33:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:33:17] [Server thread/INFO]: Max TNT Explosions: 100
+[03:33:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:33:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:33:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:33:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:33:18] [Server thread/INFO]: Time elapsed: 303 ms
+[03:33:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:33:18] [Server thread/INFO]: Time elapsed: 206 ms
+[03:33:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:33:18] [Server thread/INFO]: Time elapsed: 96 ms
+[03:33:18] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.10.2
+[03:33:18] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
+[03:33:18] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.3.1-SNAPSHOT
+[03:33:18] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.27.0
+[03:33:18] [Server thread/INFO]: [LightAntiCheat] Enabling LightAntiCheat v1.2.1
+[03:33:19] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.10.2
+[03:33:19] [Server thread/INFO]: [RandomChallenge] Enabling RandomChallenge v1.33
+[03:33:19] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[03:33:19] [Server thread/INFO]: [HuskHomes] Enabling HuskHomes v4.6.2
+[03:33:19] [Server thread/INFO]: [HuskHomes] Initializing plugin config & locale files...
+[03:33:20] [Server thread/INFO]: [HuskHomes] Successfully initialized plugin config & locale files
+[03:33:20] [Server thread/INFO]: [HuskHomes] Initializing SQLite database connection...
+[03:33:20] [Server thread/INFO]: [HuskHomes] Successfully initialized SQLite database connection
+[03:33:20] [Server thread/INFO]: [HuskHomes] Initializing hooks...
+[03:33:20] [Server thread/INFO]: [HuskHomes] Successfully initialized hooks
+[03:33:20] [Server thread/INFO]: [HuskHomes] Initializing events...
+[03:33:20] [Server thread/INFO]: [HuskHomes] Successfully initialized events
+[03:33:20] [Server thread/INFO]: [HuskHomes] Initializing commands...
+[03:33:20] [Server thread/INFO]: [HuskHomes] Successfully initialized commands
+[03:33:20] [Server thread/INFO]: [HuskHomes] Initializing API...
+[03:33:20] [Server thread/INFO]: [HuskHomes] Successfully initialized API
+[03:33:20] [Server thread/INFO]: [HuskHomes] Initializing metrics...
+[03:33:20] [Server thread/INFO]: [HuskHomes] Successfully initialized metrics
+[03:33:20] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.4.4
+[03:33:20] [Server thread/ERROR]: [Orebfuscator] ╔========================================================================╗
+[03:33:20] [Server thread/ERROR]: [Orebfuscator] ║                                 WARNING                                ║
+[03:33:20] [Server thread/ERROR]: [Orebfuscator] ║             REMOVAL OF SUPPORT FOR JAVA VERSIONS BEFORE 17             ║
+[03:33:20] [Server thread/ERROR]: [Orebfuscator] ║                   AND MINECRAFT VERSIONS BEFORE 1.16                   ║
+[03:33:20] [Server thread/ERROR]: [Orebfuscator] ║                                                                        ║
+[03:33:20] [Server thread/ERROR]: [Orebfuscator] ║   https://github.com/Imprex-Development/orebfuscator/discussions/367   ║
+[03:33:20] [Server thread/ERROR]: [Orebfuscator] ╚========================================================================╝
+[03:33:20] [Server thread/ERROR]: [Orebfuscator] An error occurred while enabling plugin
 java.lang.RuntimeException: ProtocolLib can't be found or is disabled! Orebfuscator can't be enabled.
 	at net.imprex.orebfuscator.Orebfuscator.onEnable(Orebfuscator.java:57) ~[orebfuscator-plugin-5.4.4.jar:?]
 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:287) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
@@ -408,178 +358,231 @@ java.lang.RuntimeException: ProtocolLib can't be found or is disabled! Orebfusca
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1131) ~[paper-1.20.4.jar:git-Paper-496]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-496]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[16:35:18] [Server thread/INFO]: [Orebfuscator] Disabling Orebfuscator v5.4.4
-[16:35:18] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.27.0
-[16:35:18] [Server thread/INFO]: [VillagerOptimizer] Enabling VillagerOptimizer v1.5.5
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] ╭────────────────────────────────────────────────────────────╮
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │             _   __ _  __ __                                │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │            | | / /(_)/ // /___ _ ___ _ ___  ____           │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │            | |/ // // // // _ `// _ `// -_)/ __/           │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │            |___//_//_//_/ \_,_/ \_, / \__//_/              │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │          ____        __   _    /___/_                      │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │         / __ \ ___  / /_ (_)__ _   (_)___ ___  ____        │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │        / /_/ // _ \/ __// //  ' \ / //_ // -_)/ __/        │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │        \____// .__/\__//_//_/_/_//_/ /__/\__//_/           │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │             /_/         by xGinko                          │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │        https://github.com/xGinko/VillagerOptimizer         │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │               ➤  Loading Config...                         │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │               ➤  Loading Translations...                   │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                           de_de                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                           en_us                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                           it_it                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                           ko_kr                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                           ru_ru                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                           zh_cn                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │               ✓  Done.                                     │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
-[16:35:19] [Server thread/INFO]: [VillagerOptimizer] ╰────────────────────────────────────────────────────────────╯
-[16:35:19] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.27.0
-[16:35:19] [Server thread/INFO]: [Stress] Enabling Stress v1.0.3
-[16:35:19] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.10
-[16:35:19] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[16:35:19] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[16:35:19] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
-[16:35:19] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
-[16:35:19] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
-[16:35:19] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[16:35:19] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[16:35:19] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
-[16:35:19] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
-[16:35:19] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
-[16:35:19] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
-[16:35:19] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
-[16:35:20] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[16:35:20] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
-[16:35:20] [Server thread/INFO]: [Essentials] Using locale en
-[16:35:20] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[16:35:20] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[16:35:20] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[16:35:20] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[16:35:20] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[16:35:20] [Server thread/INFO]: [PaperTweaks] Enabling PaperTweaks v0.4.1
-[16:35:20] [Server thread/INFO]: [PaperTweaks] Thank you for using PaperTweaks/VanillaTweaks!
-[16:35:20] [Server thread/INFO]: [PaperTweaks] If you have any issues, please visit one of the following links for support:
-[16:35:20] [Server thread/INFO]: [PaperTweaks]   - https://discord.gg/invite/Np6Pcb78rr
-[16:35:20] [Server thread/INFO]: [PaperTweaks]   - https://github.com/MC-Machinations/VanillaTweaks/issues
-[16:35:20] [Server thread/INFO]: [PaperTweaks] You are using the H2 database type.
-[16:35:20] [Server thread/INFO]: [PaperTweaks] Moving module configurations to their new location
-[16:35:22] [Server thread/INFO]: [PaperTweaks] Loaded 40 modules
-[16:35:22] [Server thread/INFO]: [PaperTweaks] Enabled 0 modules
-[16:35:22] [Server thread/INFO]: [WildRTP] Enabling WildRTP v2.2
-[16:35:22] [Server thread/INFO]: [WildRTP] WildRTP by Joni
-[16:35:22] [Server thread/INFO]: [WildRTP] Thank you for using my plugin!
-[16:35:22] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[16:35:22] [Server thread/INFO]: [Geyser-Spigot] 
-[16:35:22] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.3.1-SNAPSHOT (git-master-6f4c29c)
-[16:35:22] [Server thread/INFO]: [Geyser-Spigot] 
-[16:35:22] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[16:35:22] [Thread-19/INFO]: [WildRTP] You are running the latest version!
-[16:35:27] [Server thread/WARN]: [Geyser-Spigot] Third-party ears/capes have been removed from Geyser, if you still wish to have this functionality please use the extension: https://github.com/GeyserMC/ThirdPartyCosmetics
-[16:35:27] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
-[16:35:27] [Server thread/INFO]: [Geyser-Spigot] Done (5.223s)! Run /geyser help for help!
-[16:35:27] [Server thread/INFO]: Running delayed init tasks
-[16:35:27] [Server thread/INFO]: Done (36.665s)! For help, type "help"
-[16:35:27] [Server thread/INFO]: *************************************************************************************
-[16:35:27] [Server thread/INFO]: This is the first time you're starting this server.
-[16:35:27] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[16:35:27] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[16:35:27] [Server thread/INFO]: *************************************************************************************
-[16:35:27] [Server thread/INFO]: Timings Reset
-[16:35:27] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[16:35:27] [Craft Scheduler Thread - 8 - Essentials/INFO]: [Essentials] Fetching version information...
-[16:35:28] [ForkJoinPool.commonPool-worker-1/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
-[16:35:28] [ForkJoinPool.commonPool-worker-2/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
-[16:35:28] [ForkJoinPool.commonPool-worker-2/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
-[16:35:40] [User Authenticator #0/INFO]: UUID of player Slyvved is 7abcce82-3f43-33f2-9efc-e02679b02baa
-[16:35:41] [Server thread/INFO]: Slyvved joined the game
-[16:35:41] [Server thread/INFO]: Slyvved[/[0:0:0:0:0:0:0:1%0]:52138] logged in with entity id 24 at ([world]154.5, 97.0, -93.5)
-[16:35:41] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
-[16:35:54] [Server thread/INFO]: Slyvved lost connection: Disconnected
-[16:35:54] [Server thread/INFO]: Slyvved left the game
-[16:36:03] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
-[16:36:06] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[16:36:08] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bal 
-[16:36:08] [Server thread/INFO]: Command Help: /bal
-[16:36:08] [Server thread/INFO]: Description: States the current balance of a player.
-[16:36:08] [Server thread/INFO]: Usage(s);
-[16:36:08] [Server thread/INFO]: /bal - States your current balance
-[16:36:08] [Server thread/INFO]: /bal <player> - Displays the balance of the specified player
-[16:36:18] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bal 
-[16:36:18] [Server thread/INFO]: Command Help: /bal
-[16:36:18] [Server thread/INFO]: Description: States the current balance of a player.
-[16:36:18] [Server thread/INFO]: Usage(s);
-[16:36:18] [Server thread/INFO]: /bal - States your current balance
-[16:36:18] [Server thread/INFO]: /bal <player> - Displays the balance of the specified player
-[16:36:23] [User Authenticator #0/INFO]: UUID of player Slyvved is 7abcce82-3f43-33f2-9efc-e02679b02baa
-[16:36:23] [Server thread/INFO]: Slyvved joined the game
-[16:36:23] [Server thread/INFO]: Slyvved[/[0:0:0:0:0:0:0:1%0]:43554] logged in with entity id 481 at ([world]154.5, 97.0, -93.5)
-[16:36:30] [Server thread/INFO]: Slyvved issued server command: /plugins
-[16:36:38] [Server thread/INFO]: Slyvved issued server command: /rtp
-[16:36:57] [Server thread/INFO]: Slyvved issued server command: /bal
-[16:36:57] [Server thread/INFO]: [Essentials] Slyvved was denied access to command.
-[16:37:06] [Server thread/INFO]: Slyvved issued server command: /lac
-[16:37:09] [Server thread/INFO]: Slyvved issued server command: /lac alerts
-[16:37:50] [Server thread/INFO]: Slyvved issued server command: /tps
-[16:37:55] [Server thread/INFO]: Slyvved issued server command: /tpyes
-[16:38:08] [Server thread/INFO]: Slyvved issued server command: /sethome
-[16:38:10] [Server thread/INFO]: Slyvved issued server command: /hom
-[16:38:12] [Server thread/INFO]: Slyvved issued server command: /home
-[16:38:23] [Server thread/INFO]: Slyvved issued server command: /warplist
-[16:38:32] [Server thread/INFO]: Made Slyvved a server operator
-[16:38:35] [Server thread/INFO]: Slyvved issued server command: /pl
-[16:38:49] [Server thread/INFO]: Slyvved issued server command: /invsee Slyvved
-[16:39:00] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:39:13] [Server thread/INFO]: Slyvved issued server command: //wand
-[16:39:16] [Server thread/INFO]: Slyvved issued server command: /gmc
-[16:39:26] [Server thread/INFO]: Slyvved issued server command: /setblock ~ ~ ~ minecraft:stone
-[16:39:26] [Server thread/INFO]: [Slyvved: Changed the block at 158, 110, -128]
-[16:39:34] [Server thread/INFO]: Slyvved issued server command: //set tnt
-[16:39:42] [Server thread/INFO]: Slyvved issued server command: /give * flint_and_steel
-[16:39:49] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:39:53] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:39:58] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:40:01] [Server thread/INFO]: Slyvved has made the advancement [Monster Hunter]
-[16:40:03] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:40:08] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:40:20] [Server thread/INFO]: Slyvved has made the advancement [Stone Age]
-[16:40:32] [Server thread/INFO]: Slyvved issued server command: /tps
-[16:40:35] [Server thread/INFO]: Slyvved issued server command: /bal
-[16:40:36] [Server thread/INFO]: Slyvved issued server command: /baltop
-[16:40:57] [Server thread/INFO]: Slyvved issued server command: /tps
-[16:41:02] [Server thread/INFO]: Slyvved issued server command: /stress:stps
-[16:41:12] [Server thread/INFO]: Slyvved issued server command: /stress test=tps interval=long
-[16:41:18] [Server thread/INFO]: Slyvved issued server command: /tps
-[16:41:21] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:41:32] [Server thread/INFO]: Slyvved issued server command: /stress test=chunkgen world=world
-[16:41:36] [Server thread/INFO]: Slyvved issued server command: /stress test=chunkgen world=world
-[16:41:43] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:41:49] [Server thread/INFO]: Slyvved issued server command: /stress test=chunkgen world=world
-[16:41:50] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:41:52] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:41:54] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:41:56] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:41:57] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:41:58] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:42:00] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:42:01] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:42:02] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:42:04] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:42:05] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:42:12] [Server thread/INFO]: Slyvved issued server command: /lag
-[16:42:23] [Server thread/INFO]: Slyvved issued server command: /bal
-[16:42:28] [Server thread/INFO]: Slyvved issued server command: /gms
-[16:44:38] [Server thread/INFO]: Slyvved lost connection: Disconnected
-[16:44:38] [Server thread/INFO]: Slyvved left the game
-[16:50:16] [User Authenticator #1/INFO]: UUID of player Slyvved is 7abcce82-3f43-33f2-9efc-e02679b02baa
-[16:50:16] [Server thread/INFO]: Slyvved joined the game
-[16:50:16] [Server thread/INFO]: Slyvved[/[0:0:0:0:0:0:0:1%0]:36182] logged in with entity id 16383 at ([world]339.6828802208449, 63.0, -19.59162056232445)
-[16:50:32] [Server thread/INFO]: Slyvved issued server command: /give * diamond
-[16:50:32] [Server thread/INFO]: Slyvved has made the advancement [Diamonds!]
-[16:51:05] [Server thread/INFO]: Slyvved issued server command: /gmc
+[03:33:20] [Server thread/INFO]: [Orebfuscator] Disabling Orebfuscator v5.4.4
+[03:33:20] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.27.0
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] Enabling VillagerOptimizer v1.5.5
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] ╭────────────────────────────────────────────────────────────╮
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │             _   __ _  __ __                                │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │            | | / /(_)/ // /___ _ ___ _ ___  ____           │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │            | |/ // // // // _ `// _ `// -_)/ __/           │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │            |___//_//_//_/ \_,_/ \_, / \__//_/              │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │          ____        __   _    /___/_                      │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │         / __ \ ___  / /_ (_)__ _   (_)___ ___  ____        │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │        / /_/ // _ \/ __// //  ' \ / //_ // -_)/ __/        │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │        \____// .__/\__//_//_/_/_//_/ /__/\__//_/           │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │             /_/         by xGinko                          │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │        https://github.com/xGinko/VillagerOptimizer         │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │               ➤  Loading Config...                         │
+[03:33:20] [Server thread/INFO]: [VillagerOptimizer] │               ➤  Loading Translations...                   │
+[03:33:21] [Server thread/INFO]: [VillagerOptimizer] │                           de_de                            │
+[03:33:21] [Server thread/INFO]: [VillagerOptimizer] │                           en_us                            │
+[03:33:21] [Server thread/INFO]: [VillagerOptimizer] │                           it_it                            │
+[03:33:21] [Server thread/INFO]: [VillagerOptimizer] │                           ko_kr                            │
+[03:33:21] [Server thread/INFO]: [VillagerOptimizer] │                           ru_ru                            │
+[03:33:21] [Server thread/INFO]: [VillagerOptimizer] │                           zh_cn                            │
+[03:33:21] [Server thread/INFO]: [VillagerOptimizer] │               ✓  Done.                                     │
+[03:33:21] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
+[03:33:21] [Server thread/INFO]: [VillagerOptimizer] │                                                            │
+[03:33:21] [Server thread/INFO]: [VillagerOptimizer] ╰────────────────────────────────────────────────────────────╯
+[03:33:21] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.27.0
+[03:33:21] [Server thread/INFO]: [Stress] Enabling Stress v1.0.3
+[03:33:21] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.10
+[03:33:21] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[03:33:21] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[03:33:21] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[03:33:21] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[03:33:22] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[03:33:22] [Server thread/INFO]: [Essentials] Found 1 files to convert...
+[03:33:22] [Server thread/INFO]: [Essentials] Converted 0/1
+[03:33:22] [Server thread/INFO]: [Essentials] Ban format update complete.
+[03:33:22] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[03:33:22] [Server thread/INFO]: [Essentials] Done converting ignore list.
+[03:33:22] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[03:33:22] [Server thread/INFO]: [Essentials] Done converting legacy userdata keys to Configurate.
+[03:33:22] [Server thread/INFO]: [Essentials] Done converting mail list.
+[03:33:22] [Server thread/INFO]: [Essentials] #===========================================================================#
+[03:33:22] [Server thread/INFO]: [Essentials]  EssentialsX will now purge any NPC accounts which were incorrectly created.
+[03:33:22] [Server thread/INFO]: [Essentials]  Only NPC accounts with the default starting balance will be deleted. If
+[03:33:22] [Server thread/INFO]: [Essentials]  they turn out to be valid NPC accounts, they will be re-created as needed.
+[03:33:22] [Server thread/INFO]: [Essentials]  Any files deleted here will be backed up to the 
+[03:33:22] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
+[03:33:22] [Server thread/INFO]: [Essentials]  have been purged incorrectly, you should restore it from the backup and
+[03:33:22] [Server thread/INFO]: [Essentials]  report it to us on GitHub:
+[03:33:22] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[03:33:22] [Server thread/INFO]: [Essentials] 
+[03:33:22] [Server thread/INFO]: [Essentials]  NOTE: This is a one-time process and will take several minutes if you have
+[03:33:22] [Server thread/INFO]: [Essentials]  a lot of userdata files! If you interrupt this process, EssentialsX will
+[03:33:22] [Server thread/INFO]: [Essentials]  skip the process until you rename or remove the backup folder.
+[03:33:22] [Server thread/INFO]: [Essentials] #===========================================================================#
+[03:33:22] [Server thread/INFO]: [Essentials] Found ~1 files under "plugins/Essentials/userdata"...
+[03:33:22] [Server thread/INFO]: [Essentials] #===========================================================================#
+[03:33:22] [Server thread/INFO]: [Essentials]  EssentialsX has finished purging NPC accounts.
+[03:33:22] [Server thread/INFO]: [Essentials] 
+[03:33:22] [Server thread/INFO]: [Essentials]  Deleted accounts: 0
+[03:33:22] [Server thread/INFO]: [Essentials]  Total accounts processed: 1
+[03:33:22] [Server thread/INFO]: [Essentials] 
+[03:33:22] [Server thread/INFO]: [Essentials]  Purged accounts have been backed up to
+[03:33:22] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup", and can be restored from there
+[03:33:22] [Server thread/INFO]: [Essentials]  if needed. Please report any files which have been incorrectly deleted
+[03:33:22] [Server thread/INFO]: [Essentials]  to us on GitHub:
+[03:33:22] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[03:33:22] [Server thread/INFO]: [Essentials] #===========================================================================#
+[03:33:22] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[03:33:22] [Server thread/INFO]: [Essentials] Using locale en
+[03:33:22] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[03:33:22] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[03:33:22] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[03:33:22] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[03:33:22] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[03:33:22] [Server thread/INFO]: [PaperTweaks] Enabling PaperTweaks v0.4.1
+[03:33:22] [Server thread/INFO]: [PaperTweaks] Thank you for using PaperTweaks/VanillaTweaks!
+[03:33:22] [Server thread/INFO]: [PaperTweaks] If you have any issues, please visit one of the following links for support:
+[03:33:22] [Server thread/INFO]: [PaperTweaks]   - https://discord.gg/invite/Np6Pcb78rr
+[03:33:22] [Server thread/INFO]: [PaperTweaks]   - https://github.com/MC-Machinations/VanillaTweaks/issues
+[03:33:22] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key not set, generate claim code: debedb1d44d5d00e
+[03:33:22] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[03:33:23] [Server thread/INFO]: [PaperTweaks] You are using the H2 database type.
+[03:33:23] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/debedb1d44d5d00e
+[03:33:25] [Server thread/INFO]: [PaperTweaks] Loaded 40 modules
+[03:33:25] [Server thread/INFO]: [PaperTweaks] Enabled 0 modules
+[03:33:25] [Server thread/INFO]: [WildRTP] Enabling WildRTP v2.2
+[03:33:25] [Server thread/INFO]: [WildRTP] WildRTP by Joni
+[03:33:25] [Server thread/INFO]: [WildRTP] Thank you for using my plugin!
+[03:33:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:33:26] [Server thread/INFO]: [Geyser-Spigot] 
+[03:33:26] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.3.1-SNAPSHOT (git-master-6f4c29c)
+[03:33:26] [Server thread/INFO]: [Geyser-Spigot] 
+[03:33:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:33:26] [Thread-19/INFO]: [WildRTP] You are running the latest version!
+[03:33:26] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[03:33:26] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/debedb1d44d5d00e
+[03:33:29] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[03:33:30] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/debedb1d44d5d00e
+[03:33:30] [Server thread/WARN]: [Geyser-Spigot] Third-party ears/capes have been removed from Geyser, if you still wish to have this functionality please use the extension: https://github.com/GeyserMC/ThirdPartyCosmetics
+[03:33:30] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[03:33:30] [Server thread/INFO]: [Geyser-Spigot] Done (4.541s)! Run /geyser help for help!
+[03:33:30] [Server thread/INFO]: Running delayed init tasks
+[03:33:30] [Server thread/INFO]: Done (27.757s)! For help, type "help"
+[03:33:30] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[03:33:30] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[03:33:30] [Server thread/INFO]: Timings Reset
+[03:33:31] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: c946cbc9-3c4b-4059-8eec-218a187fb959, mapped to EntityBat['Bat'/67, uuid='c946cbc9-3c4b-4059-8eec-218a187fb959', l='ServerLevel[world]', x=287.89, y=-17.35, z=-44.25, cpos=[17, -3], tl=1169, v=true], can't add EntityBat['Bat'/81, uuid='c946cbc9-3c4b-4059-8eec-218a187fb959', l='ServerLevel[world]', x=288.09, y=-18.01, z=-44.42, cpos=[18, -3], tl=1172, v=false]
+[03:33:33] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[03:33:33] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/debedb1d44d5d00e
+[03:33:36] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[03:33:36] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/debedb1d44d5d00e
+[03:33:39] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[03:33:39] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/debedb1d44d5d00e
+[03:33:42] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[03:33:43] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/debedb1d44d5d00e
+[03:33:46] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[03:33:46] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/debedb1d44d5d00e
+[03:33:49] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[03:33:49] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/debedb1d44d5d00e
+[03:33:52] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[03:33:53] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/debedb1d44d5d00e
+[03:33:56] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[03:33:56] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[03:33:56] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] create new minecraft java tunnel
+[03:34:04] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: child-letting.joinmc.link
+[03:34:04] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[03:34:04] [Thread-14/INFO]: playit.gg: WARNING: email associated with playit.gg account is not verified
+[03:34:04] [Thread-14/INFO]: playit.gg: tunnel setup
+[03:34:04] [Thread-14/INFO]: playit.gg: child-letting.joinmc.link
+[03:34:04] [Thread-14/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[03:34:04] [Thread-14/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[03:34:05] [Thread-14/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[03:35:26] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.17:47056, peerAddr=103.219.229.71:18657, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, 17, -73, -48, 103, -37, -27, 71, 72, -31, 76, -53, -12, 115, -85, 8, 102, 81, 92, 127, 0, 0, 0, 0, 0, 8, -97, 8, 0, 0, 0, 0, 0, 49, -117, 10, -43, 115, -85, 8, 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -53, 99, 54, 46, 7, -113, 81, 91, 95, -14, 93, 68, 83, 114, -71, 106], tunnelServerId=1, dataCenterId=33}
+[03:35:26] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[03:35:26] [Thread-14/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43784 to claim client
+[03:35:26] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[03:35:26] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[03:35:26] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[03:35:26] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[03:35:26] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[03:35:26] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[03:35:26] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[03:35:27] [User Authenticator #0/INFO]: UUID of player Slyvved is 7abcce82-3f43-33f2-9efc-e02679b02baa
+[03:35:27] [Server thread/INFO]: Slyvved joined the game
+[03:35:27] [Server thread/INFO]: Slyvved[/127.0.0.1:51556] logged in with entity id 214 at ([world]339.6828802208449, 63.0, -19.59162056232445)
+[03:35:35] [Server thread/INFO]: Slyvved issued server command: /gamemode creative
+[03:36:06] [Server thread/INFO]: Slyvved issued server command: /plugins
+[03:36:35] [Server thread/INFO]: Slyvved issued server command: /ps
+[03:36:37] [Server thread/INFO]: Slyvved issued server command: /lag
+[03:36:39] [Server thread/INFO]: Slyvved issued server command: /lag
+[03:36:57] [Server thread/INFO]: Slyvved issued server command: /speed 30
+[03:38:05] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[03:38:05] [Server thread/INFO]: Slyvved lost connection: Disconnected
+[03:38:05] [Server thread/INFO]: Slyvved left the game
+[03:38:06] [Thread-14/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[03:38:13] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.17:47056, peerAddr=103.219.229.71:2491, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -109, -71, -35, 17, -73, -48, 103, -37, -27, 71, 9, -69, -96, -43, -56, 37, -85, 8, 102, 81, 93, 38, 0, 0, 0, 0, 0, 8, -97, 8, 0, 0, 0, 0, 0, 49, -117, 10, 5, 37, -85, 8, 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 50, -12, 11, -39, -104, -12, 41, -5, -21, -16, -37, -79, -125, -90, -87, -22], tunnelServerId=1, dataCenterId=33}
+[03:38:13] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[03:38:13] [Thread-14/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43784 to claim client
+[03:38:13] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[03:38:13] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[03:38:13] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[03:38:13] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[03:38:13] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[03:38:13] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[03:38:13] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[03:39:37] [Server thread/INFO]: Stopping the server
+[03:39:37] [Server thread/INFO]: Stopping server
+[03:39:37] [Server thread/INFO]: [WildRTP] Disabling WildRTP v2.2
+[03:39:37] [Server thread/INFO]: [PaperTweaks] Disabling PaperTweaks v0.4.1
+[03:39:37] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.2+6779-3aca580
+[03:39:37] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[03:39:37] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[03:39:37] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.10
+[03:39:37] [Server thread/INFO]: [Stress] Disabling Stress v1.0.3
+[03:39:37] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.27.0
+[03:39:37] [Server thread/INFO]: [PowerRanks] Disabling PowerRanks v1.10.9R2
+[03:39:37] [Server thread/INFO]: [PowerRanks] Disabled PowerRanks v1.10.9R2
+[03:39:37] [Server thread/INFO]: [VillagerOptimizer] Disabling VillagerOptimizer v1.5.5
+[03:39:37] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.27.0
+[03:39:37] [Server thread/INFO]: [HuskHomes] Disabling HuskHomes v4.6.2
+[03:39:37] [Server thread/INFO]: [HuskHomes] Successfully disabled HuskHomes v4.6.2
+[03:39:37] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[03:39:37] [Server thread/INFO]: [RandomChallenge] Disabling RandomChallenge v1.33
+[03:39:37] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.10.2
+[03:39:37] [Server thread/INFO]: [LightAntiCheat] Disabling LightAntiCheat v1.2.1
+[03:39:37] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.27.0
+[03:39:37] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.3.1-SNAPSHOT
+[03:39:37] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[03:39:37] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[03:39:37] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.128
+[03:39:37] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[03:39:37] [Server thread/INFO]: [LuckPerms] Closing storage...
+[03:39:37] [Server thread/INFO]: [LuckPerms] Goodbye!
+[03:39:37] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.10.2
+[03:39:37] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[03:39:37] [Server thread/INFO]: Saving players
+[03:39:37] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] control channel shutdown
+[03:39:38] [Server thread/INFO]: Saving worlds
+[03:39:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:39:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:39:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:39:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:39:39] [Server thread/INFO]: [ChunkHolderManager] Saved 927 block chunks, 609 entity chunks, 0 poi chunks in world 'world' in 1.12s
+[03:39:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:39:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:39:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:39:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:39:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:39:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 26 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[03:39:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:39:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:39:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:39:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:39:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:39:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[03:39:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:39:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:39:39] [Server thread/INFO]: Flushing Chunk IO
+[03:39:39] [Server thread/INFO]: Closing Thread Pool
+[03:39:39] [Server thread/INFO]: Closing Server

@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 0:0:0:0:0:0:0:1%0
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1716569078406
-  login: 1716569416508
+  logout: 1716608285532
+  login: 1716608127707
 money: '0'
 last-account-name: Slyvved
 logoutlocation:
   world: 02a541ec-146c-42a3-a241-ba76ba9c497d
   world-name: world
-  x: 339.6828802208449
-  y: 63.0
-  z: -19.59162056232445
-  yaw: 49.2938232421875
-  pitch: 13.70669937133789
+  x: 1017.4664013230307
+  y: 62.0
+  z: -386.5229393692167
+  yaw: -39.29010009765625
+  pitch: 13.045886993408203

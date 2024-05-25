@@ -4,10 +4,10 @@ Moderator:
   weight: 50
   namecolor: ''
   chatcolor: ''
-  suffix: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
+  suffix: ''
   buyCommand: ''
   prefix: '[gradient=#9d1dff,#e22581]MODERATOR[/gradient]'
   default: false
@@ -17,10 +17,10 @@ Owner:
   weight: 100
   namecolor: ''
   chatcolor: ''
-  suffix: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
+  suffix: ''
   buyCommand: ''
   prefix: '[gradient=#ff00ff,#33ccff]OWNER[/gradient]'
   default: false
@@ -30,10 +30,10 @@ Admin:
   weight: 75
   namecolor: ''
   chatcolor: ''
-  suffix: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
+  suffix: ''
   buyCommand: ''
   prefix: '[gradient=#ffff00,#ef3300]ADMIN[/gradient]'
   default: false
@@ -43,10 +43,10 @@ Member:
   weight: 0
   namecolor: ''
   chatcolor: ''
-  suffix: ''
   buyableRanks: []
   buyCost: 0.0
   buyDescription: ''
+  suffix: ''
   buyCommand: ''
   prefix: '[gradient=#127e00,#3eaf18]MEMBER[/gradient]'
   default: true
